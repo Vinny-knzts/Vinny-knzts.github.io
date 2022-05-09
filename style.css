@@ -1,0 +1,36 @@
+h1 {
+    font-family: fantasy;
+    color: #902923;
+  }
+
+  #descricao,
+  #descricao-texto {
+    font-family: monospace;
+  }
+
+  body {
+    background-color: #D6D5C9;
+    color: #0A100D;
+    font-family: monospace;
+  }
+
+  ol {
+    line-height: 20px;
+  }
+
+  .informacao {
+    line-height: 20px;
+  }
+
+  .titulo {
+    color: #A22C29;
+  }
+
+  #sobre-mim-descricao {
+      float: right;
+      margin-right: 50%;
+  }
+
+  #sobre-mim h1 {
+      text-align: center;
+  }
