@@ -1,36 +1,46 @@
 h1 {
     font-family: fantasy;
     color: #902923;
-  }
+}
 
-  #descricao,
-  #descricao-texto {
+#descricao,
+#descricao-texto {
     font-family: monospace;
-  }
+}
 
-  body {
+body {
     background-color: #D6D5C9;
     color: #0A100D;
     font-family: monospace;
-  }
+}
 
-  ol {
+ol {
     line-height: 20px;
-  }
+}
 
-  .informacao {
+.informacao {
     line-height: 20px;
-  }
+}
 
-  .titulo {
+.titulo {
     color: #A22C29;
-  }
+}
 
-  #sobre-mim-descricao {
-      float: right;
-      margin-right: 50%;
-  }
+#sobre-mim h1 {
+    text-align: center;
+}
 
-  #sobre-mim h1 {
-      text-align: center;
-  }
+#sobre-mim img {
+    width: 10%;
+    padding: 20px;
+    background-color: #0A100D;
+}
+
+#sobre-mim-descricao {
+    float: right;
+    margin-right: 50%;
+}
+
+#sobre-mim-descricao h3 {
+    margin-top: 0;
+}
